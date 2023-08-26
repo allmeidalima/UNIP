@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-//Primeiro Hello Word
 int main() {
+    //printf serve para imprimir na tela
     printf("Hello, world!\n");
     return 0;
 }
